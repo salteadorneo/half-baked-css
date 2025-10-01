@@ -1,0 +1,21 @@
+{
+    "name": "half-baked-css",
+    "version": "1.0.0",
+    "description": "A joke stylesheet that \"covers\" half of any website with a band, so you can proudly say: \"This site is half-baked!\"",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salteadorneo/half-baked-css.git"
+    },
+    "keywords": [
+        "css",
+        "joke",
+        "stylesheet",
+        "half-baked",
+        "web"
+    ],
+    "author": "salteadorneo",
+    "license": "MIT"
+}
